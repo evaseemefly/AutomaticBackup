@@ -7,4 +7,5 @@ import DateTimeInfo
 # dirInfo.GetAllFiles('ss','ss','2017-07-24-00-00','2017-07-24-00-23')
 dirInfo=Dir.DirectoryInfo()
 dtInfo=DateTimeInfo.DateTimeInfo('','')
+dtInfo.get_date_list()
 
